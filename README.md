@@ -1,2 +1,1 @@
-# tutorial
-tutorial to collaborate research with github.
+https://github.com/IkegLab/tutorial/wiki
